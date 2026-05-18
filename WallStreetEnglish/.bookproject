@@ -1,0 +1,44 @@
+{
+  "project": {
+    "name": "华尔街英语自学教程",
+    "language": "zh-CN",
+    "description": "基于华尔街英语（Wall Street English）20级课程体系的自学教材。覆盖CEFR Pre-A1至C1六个等级，包含核心词汇、实用句型、语法讲解和对话练习。",
+    "template": "handbook",
+    "current_version": "1.0.0",
+    "published_versions": []
+  },
+  "publishing": {
+    "target_platform": "local",
+    "publish_dir": "docs",
+    "auto_preview": false,
+    "preview_port": 4000
+  },
+  "preferences": {
+    "chapter_min_words": 1500,
+    "chapter_max_words": 4000,
+    "tone": "teaching",
+    "include_exercises": true,
+    "include_summary": true,
+    "include_navigation": true
+  },
+  "iron_rules": [
+    "每章必须包含核心词汇表（英中对照+例句）",
+    "每章必须包含实用句型（英中对照）",
+    "每章必须包含语法要点讲解",
+    "每章必须包含对话练习或自测练习",
+    "每章底部必须有上一篇/下一篇导航链接",
+    "单词和例句必须标注CEFR等级",
+    "禁止使用外部图片链接"
+  ],
+  "quality_checks": {
+    "check_broken_links": true,
+    "check_heading_hierarchy": true,
+    "require_alt_text": false
+  },
+  "git": {
+    "auto_commit": true,
+    "branch": "main",
+    "auto_tag": true,
+    "commit_template": "docs: v{version} — {summary}"
+  }
+}

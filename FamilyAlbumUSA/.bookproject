@@ -1,0 +1,15 @@
+{
+  "name": "走遍美国自学教程",
+  "subtitle": "Family Album U.S.A. Self-Study Textbook",
+  "language": "zh",
+  "version": "1.0.0",
+  "author": "Hermes Agent",
+  "description": "基于经典美语教材 Family Album U.S.A.（走遍美国）的自学教程，以斯图尔特一家的日常生活为主线，帮助学习者掌握地道美语。",
+  "tags": ["英语学习", "美语", "口语", "文化", "自学教材"],
+  "quality": {
+    "min_chapter_chars": 3000,
+    "require_navigation": true,
+    "require_glossary": false,
+    "check_missing_sections": true
+  }
+}

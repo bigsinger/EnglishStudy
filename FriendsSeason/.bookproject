@@ -1,0 +1,15 @@
+{
+  "name": "老友记自学教程",
+  "subtitle": "Friends Self-Study Textbook",
+  "language": "zh",
+  "version": "1.0.0",
+  "author": "Hermes Agent",
+  "description": "基于经典美剧《老友记》(Friends, 1994-2004) 打造的自学英语教程。通过10季236集经典剧情，学习地道美式口语、90年代文化与社交英语。",
+  "tags": ["英语学习", "美剧", "口语", "美式英语", "自学教材", "Friends", "老友记"],
+  "quality": {
+    "min_chapter_chars": 4000,
+    "require_navigation": true,
+    "require_glossary": false,
+    "check_missing_sections": true
+  }
+}

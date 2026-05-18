@@ -1,0 +1,15 @@
+{
+  "name": "摩登家庭自学教程",
+  "subtitle": "Modern Family Self-Study Textbook",
+  "language": "zh",
+  "version": "1.0.0",
+  "author": "Hermes Agent",
+  "description": "基于经典美剧《摩登家庭》(Modern Family) 打造的自学英语教程。通过11季250集真实生活场景，学习地道美式口语、家庭文化与社会习俗。",
+  "tags": ["英语学习", "美剧", "口语", "现代美语", "自学教材"],
+  "quality": {
+    "min_chapter_chars": 4000,
+    "require_navigation": true,
+    "require_glossary": false,
+    "check_missing_sections": true
+  }
+}
