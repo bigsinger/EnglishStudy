@@ -19,8 +19,10 @@
 - 学会表白和表达情感
 - 理解定语从句的用法和功能
 
-▶️ 继续学习： [5.1 第十六集：The Community Center](sections/5.1.md)
+▶️ 继续学习： [5.1 第十六集：The Community Center](sections/5.1.md)[← 4.5 第十五集：A Big Fish in a Little Pond](part4/sections/4.5.md) | [5.1 第十六集：The Community Center →](part5/sections/5.1.md)
+
 
 ---
 
-[← 4.5 第十五集：A Big Fish in a Little Pond](part4/sections/4.5.md) | [5.1 第十六集：The Community Center →](part5/sections/5.1.md)
+**上一篇**：[4.5 第十五集：A Big Fish in a Little Pond](../part4/sections/4.5.md)
+**下一篇**：[5.1 第十六集：The Community Center](sections/5.1.md)

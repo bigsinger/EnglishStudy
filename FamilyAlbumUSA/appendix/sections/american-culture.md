@@ -1,10 +1,6 @@
 # 附录C. 美国文化与社会习俗 — American Culture & Social Customs
 
-> 本附录涵盖《走遍美国》（*Family Album, U.S.A.*）剧中涉及的核心美式生活文化，帮助学习者理解剧情背后的文化背景与社交逻辑。
-
----
-
-## 目录
+> 本附录涵盖《走遍美国》（*Family Album, U.S.A.*）剧中涉及的核心美式生活文化，帮助学习者理解剧情背后的文化背景与社交逻辑。## 目录
 
 - [1. 家庭生活 — Family Life](#1-家庭生活--family-life)
 - [2. 节日文化 — Holidays & Celebrations](#2-节日文化--holidays--celebrations)
@@ -12,11 +8,7 @@
 - [4. 教育与职业 — Education & Career](#4-教育与职业--education--career)
 - [5. 日常生活 — Daily Life](#5-日常生活--daily-life)
 - [6. 饮食文化 — Food Culture](#6-饮食文化--food-culture)
-- [7. 附录表 — Quick Reference Tables](#7-附录表--quick-reference-tables)
-
----
-
-## 1. 家庭生活 — Family Life
+- [7. 附录表 — Quick Reference Tables](#7-附录表--quick-reference-tables)## 1. 家庭生活 — Family Life
 
 ### 1.1 核心家庭（Nuclear Family）vs 大家庭（Extended Family）
 
@@ -45,11 +37,7 @@
 - **平等的亲子对话**：孩子可以直接表达对父母的不同意见，较少使用"命令式"语气
 - **奖励与赞美**：频繁使用"Good job!"、"I'm proud of you."等正面反馈
 - **时间管理**：孩子参与学校、运动、音乐等多项活动，家长负责接送和协调时间表
-- **惩罚方式**：多用"time-out"（冷静时间）或剥夺特权（lose privileges），体罚较少被接受
-
----
-
-## 2. 节日文化 — Holidays & Celebrations
+- **惩罚方式**：多用"time-out"（冷静时间）或剥夺特权（lose privileges），体罚较少被接受## 2. 节日文化 — Holidays & Celebrations
 
 ### 2.1 感恩节（Thanksgiving）
 
@@ -118,11 +106,7 @@
 - 吹蜡烛许愿（make a wish），切生日蛋糕
 - **惊喜派对**（Surprise Party）：由家人或朋友秘密策划，突然出现并喊"Surprise!"。这在《走遍美国》中有经典呈现
 - **生日礼物**：通常包装精美（wrapped），当面拆开并表达感谢
-- 成年人的生日派对可能融合烧烤或酒吧聚会
-
----
-
-## 3. 社交习惯 — Social Customs
+- 成年人的生日派对可能融合烧烤或酒吧聚会## 3. 社交习惯 — Social Customs
 
 ### 3.1 闲聊（Small Talk）
 
@@ -191,11 +175,7 @@
 - **商务场合**：准时到场是基本要求；迟到5-10分钟需道歉
 - **社交场合**：到达朋友家聚会可晚到10-15分钟（如为晚餐派对，不可早到，以免主人尚未准备好）
 - **约会**：男女约会男方可等候，但最好准时
-- **习惯性迟到者**会被视为不尊重他人时间
-
----
-
-## 4. 教育与职业 — Education & Career
+- **习惯性迟到者**会被视为不尊重他人时间## 4. 教育与职业 — Education & Career
 
 ### 4.1 美国教育体系（American Education System）
 
@@ -235,11 +215,7 @@
 - **非营利组织**：如红十字会（Red Cross）、食物银行（Food Bank）、救援站（Shelter）
 - **家长参与**：美国家长经常作为志愿者参与学校活动（PTA、郊游带队、图书室帮手）
 
-> 在《走遍美国》中，角色参与社区活动、邻里互助的场景体现了这种志愿精神。
-
----
-
-## 5. 日常生活 — Daily Life
+> 在《走遍美国》中，角色参与社区活动、邻里互助的场景体现了这种志愿精神。## 5. 日常生活 — Daily Life
 
 ### 5.1 驾驶与停车文化（Driving & Parking Culture）
 
@@ -287,11 +263,7 @@
 - **宠物公园（Dog Park）**：专门供狗自由奔跑的封闭空间
 - **寄养与遛狗服务**：出差时可付费寄养或请人上门遛狗
 - **宠物生日**：主人会为宠物办生日派对、买蛋糕
-- **养宠责任**：主人需铲屎（pick up after dog）、拴绳（leash）、打疫苗
-
----
-
-## 6. 饮食文化 — Food Culture
+- **养宠责任**：主人需铲屎（pick up after dog）、拴绳（leash）、打疫苗## 6. 饮食文化 — Food Culture
 
 ### 6.1 美式早餐（American Breakfast）
 
@@ -347,11 +319,7 @@
   - Cold Brew（冷萃咖啡）——近年流行的冷饮
   - Americano（美式咖啡）——浓缩咖啡+热水
 - **咖啡社交**：约人"grab a coffee"是最常见的非正式社交方式，不一定非要喝咖啡，也可以喝茶或聊天
-- **咖啡与工作**：星巴克等咖啡馆是自由职业者和商务会议的热门地点
-
----
-
-## 7. 附录表 — Quick Reference Tables
+- **咖啡与工作**：星巴克等咖啡馆是自由职业者和商务会议的热门地点## 7. 附录表 — Quick Reference Tables
 
 ### 表1：美国主要节日一览
 
@@ -422,12 +390,10 @@
 | 志愿服务 | Volunteerism / Community Service | 美国社会的重要组成 |
 | 停车标志 | Stop Sign | 必须完全停车 |
 | 预约文化 | Reservation Culture | 餐厅/理发/医生需提前预约 |
-| 宠物父母 | Pet Parents | 视宠物为孩子的主人 |
+| 宠物父母 | Pet Parents | 视宠物为孩子的主人 |> **使用建议**：在学习《走遍美国》各集时，可以对照本附录理解剧中人物的行为动机和社交习惯。例如，当角色说"I'm sorry"或"Excuse me"时，这不是软弱，而是美国社会的礼貌准则。当全家人围坐餐桌时，注意观察他们的互动方式——这反映的是美国家庭晚餐文化的核心价值：团聚、分享、平等对话。[← 附录B. 常见美语俚语与惯用语](appendix/sections/idioms.md) | [附录D. 语法快速参考 →](appendix/sections/grammar.md)
+
 
 ---
 
-> **使用建议**：在学习《走遍美国》各集时，可以对照本附录理解剧中人物的行为动机和社交习惯。例如，当角色说"I'm sorry"或"Excuse me"时，这不是软弱，而是美国社会的礼貌准则。当全家人围坐餐桌时，注意观察他们的互动方式——这反映的是美国家庭晚餐文化的核心价值：团聚、分享、平等对话。
-
----
-
-[← 附录B. 常见美语俚语与惯用语](appendix/sections/idioms.md) | [附录D. 语法快速参考 →](appendix/sections/grammar.md)
+**上一篇**：[B. 常见美语俚语与惯用语](idioms.md)
+**下一篇**：[D. 语法快速参考](grammar.md)

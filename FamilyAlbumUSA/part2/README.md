@@ -19,8 +19,10 @@
 - 理解过去时态的用法
 - 掌握描述食物和烹饪的词汇
 
-▶️ 继续学习： [2.1 第一集：46 Linden Street](sections/2.1.md)
+▶️ 继续学习： [2.1 第一集：46 Linden Street](sections/2.1.md)[← 1.4 美国文化初探](part1/sections/1.4.md) | [2.1 第一集：46 Linden Street →](part2/sections/2.1.md)
+
 
 ---
 
-[← 1.4 美国文化初探](part1/sections/1.4.md) | [2.1 第一集：46 Linden Street →](part2/sections/2.1.md)
+**上一篇**：[1.4 美国文化初探](../part1/sections/1.4.md)
+**下一篇**：[2.1 第一集：46 Linden Street](sections/2.1.md)

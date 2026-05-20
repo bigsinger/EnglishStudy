@@ -1,10 +1,6 @@
 # 附录D. 语法快速参考 — Grammar Quick Reference
 
-> 本附录汇总《Family Album USA》教材中出现的核心语法要点，采用表格+例句形式，便于快速查阅。
-
----
-
-## 一、Parts of Speech 词性
+> 本附录汇总《Family Album USA》教材中出现的核心语法要点，采用表格+例句形式，便于快速查阅。## 一、Parts of Speech 词性
 
 英语十大词类及其在句中的作用：
 
@@ -20,11 +16,7 @@
 | 冠词 | Article | 限定名词 | **A** dog, **an** apple, **the** sun |
 | 感叹词 | Interjection | 表达情感 | **Oh!** That's wonderful. |
 
-> **注意**：同一个词在不同语境中可以是不同词性。例如 *book* 既可以是名词（书），也可以是动词（预订）。
-
----
-
-## 二、Tenses 时态
+> **注意**：同一个词在不同语境中可以是不同词性。例如 *book* 既可以是名词（书），也可以是动词（预订）。## 二、Tenses 时态
 
 ### 1. 一般现在时 (Simple Present)
 
@@ -109,11 +101,7 @@
 | 一般过去 | did / was/were | yesterday, last..., ago |
 | 现在完成 | have/has + done | already, just, ever, never, since, for |
 | 一般将来 | will + do / be going to + do | tomorrow, next..., soon |
-| 将来进行 | will be + doing | this time tomorrow, at 8 p.m. |
-
----
-
-## 三、Modal Verbs 情态动词
+| 将来进行 | will be + doing | this time tomorrow, at 8 p.m. |## 三、Modal Verbs 情态动词
 
 | 情态动词 | 含义 | 用法 | 例句 |
 |---------|------|------|------|
@@ -148,11 +136,7 @@
 
 > ⚠️ **注意区分**：**mustn't**（禁止）≠ **don't have to**（不必）
 > - You **mustn't** tell anyone.（你不能告诉任何人——这是秘密）
-> - You **don't have to** tell anyone.（你不需要告诉任何人——随你便）
-
----
-
-## 四、Passive Voice 被动语态
+> - You **don't have to** tell anyone.（你不需要告诉任何人——随你便）## 四、Passive Voice 被动语态
 
 | 时态 | 主动语态 | 被动语态 |
 |------|---------|---------|
@@ -169,11 +153,7 @@
 > - 侧重承受者而非执行者：The President **was welcomed** by the crowd.
 > - 正式文体或科技文章中常用
 
-> **注意**：并非所有动词都有被动语态。不及物动词（如 happen, arrive, die）没有被动形式。
-
----
-
-## 五、Clauses 从句
+> **注意**：并非所有动词都有被动语态。不及物动词（如 happen, arrive, die）没有被动形式。## 五、Clauses 从句
 
 ### 1. 定语从句 (Relative Clauses)
 
@@ -224,11 +204,7 @@
 
 > **第一类与第二类对比**：
 > - Type 1（可能实现）：If I **have** time, I **will call** you.
-> - Type 2（不可能/假设）：If I **had** time, I **would call** you.（实际没时间）
-
----
-
-## 六、Comparative Structures 比较结构
+> - Type 2（不可能/假设）：If I **had** time, I **would call** you.（实际没时间）## 六、Comparative Structures 比较结构
 
 ### 1. 比较级 (Comparative)
 
@@ -273,11 +249,7 @@
 | 倍数 + 比较级 + than | He earns **three times more than** I do. |
 | 倍数 + the + 名词 + of | The lake is **four times the size of** the park. |
 
-> 常用倍数词：twice (两倍), three times (三倍), four times (四倍), half as...as (一半)
-
----
-
-## 七、Other Grammar Points 其他语法要点
+> 常用倍数词：twice (两倍), three times (三倍), four times (四倍), half as...as (一半)## 七、Other Grammar Points 其他语法要点
 
 ### 1. There be 句型
 
@@ -405,16 +377,9 @@
 > - **enough...to**（足够……能，肯定意义）：He is **tall enough to reach** the shelf.
 
 > **改写**：too...to = so...that + 否定
-> - He is **too tired to work**. = He is **so tired that he cannot work**.
+> - He is **too tired to work**. = He is **so tired that he cannot work**.> 💡 **使用建议**：本附录适合作为快速查阅工具。如遇不明之处，可结合教材各单元的具体讲解深入理解。建议在学习过程中，遇到生疏的语法点时随时翻阅本参考，并用自己的话仿写例句以加深记忆。*本附录对应《Family Album USA》全书语法要点，按教材编排顺序整理。*[← 附录C. 美国文化与社会习俗](appendix/sections/american-culture.md) | → 结尾
+
 
 ---
 
-> 💡 **使用建议**：本附录适合作为快速查阅工具。如遇不明之处，可结合教材各单元的具体讲解深入理解。建议在学习过程中，遇到生疏的语法点时随时翻阅本参考，并用自己的话仿写例句以加深记忆。
-
----
-
-*本附录对应《Family Album USA》全书语法要点，按教材编排顺序整理。*
-
----
-
-[← 附录C. 美国文化与社会习俗](appendix/sections/american-culture.md) | → 结尾
+**上一篇**：[C. 美国文化与社会习俗](american-culture.md)

@@ -19,8 +19,10 @@
 - 理解条件句和虚拟语气
 - 学习美式职场文化和价值观
 
-▶️ 继续学习： [4.1 第十一集：A Place of Our Own](sections/4.1.md)
+▶️ 继续学习： [4.1 第十一集：A Place of Our Own](sections/4.1.md)[← 3.5 第十集：The Anniversary](part3/sections/3.5.md) | [4.1 第十一集：A Place of Our Own →](part4/sections/4.1.md)
+
 
 ---
 
-[← 3.5 第十集：The Anniversary](part3/sections/3.5.md) | [4.1 第十一集：A Place of Our Own →](part4/sections/4.1.md)
+**上一篇**：[3.5 第十集：The Anniversary](../part3/sections/3.5.md)
+**下一篇**：[4.1 第十一集：A Place of Our Own](sections/4.1.md)

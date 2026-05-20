@@ -19,8 +19,10 @@
 - 掌握与医疗、健康相关的对话
 - 理解美式家庭价值观
 
-▶️ 继续学习： [3.1 第六集：Thanksgiving](sections/3.1.md)
+▶️ 继续学习： [3.1 第六集：Thanksgiving](sections/3.1.md)[← 2.5 第五集：The Right Magic](part2/sections/2.5.md) | [3.1 第六集：Thanksgiving →](part3/sections/3.1.md)
+
 
 ---
 
-[← 2.5 第五集：The Right Magic](part2/sections/2.5.md) | [3.1 第六集：Thanksgiving →](part3/sections/3.1.md)
+**上一篇**：[2.5 第五集：The Right Magic](../part2/sections/2.5.md)
+**下一篇**：[3.1 第六集：Thanksgiving](sections/3.1.md)

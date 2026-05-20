@@ -20,8 +20,10 @@
 - 了解纽约地标和城市文化
 - 整体回顾全书语法与词汇
 
-▶️ 继续学习： [6.1 第二十一集：A Night to Remember](sections/6.1.md)
+▶️ 继续学习： [6.1 第二十一集：A Night to Remember](sections/6.1.md)[← 5.5 第二十集：The Best of Friends](part5/sections/5.5.md) | [6.1 第二十一集：A Night to Remember →](part6/sections/6.1.md)
+
 
 ---
 
-[← 5.5 第二十集：The Best of Friends](part5/sections/5.5.md) | [6.1 第二十一集：A Night to Remember →](part6/sections/6.1.md)
+**上一篇**：[5.5 第二十集：The Best of Friends](../part5/sections/5.5.md)
+**下一篇**：[6.1 第二十一集：A Night to Remember](sections/6.1.md)
